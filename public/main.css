@@ -1,0 +1,17 @@
+.wraper {
+    display: flex;
+    justify-content: space-around;
+}
+.search {
+    width: 50%;
+}
+.table-responsive.info {
+    width: 50%;
+}
+.list-item {
+    display: flex;
+    margin-top: 20px;
+}
+li.item {
+    width: 135px;
+}
